@@ -47,6 +47,7 @@
             this.txtBoxModel.Name = "txtBoxModel";
             this.txtBoxModel.Size = new System.Drawing.Size(105, 40);
             this.txtBoxModel.TabIndex = 0;
+            this.txtBoxModel.TextChanged += new System.EventHandler(this.txtBoxModel_TextChanged);
             // 
             // textBox2
             // 
