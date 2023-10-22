@@ -1,0 +1,10 @@
+C:\Users\ninom\source\repos\KolekcijeVozilaXML\KolekcijeVozilaXML\bin\Debug\KolekcijeVozilaXML.exe.config
+C:\Users\ninom\source\repos\KolekcijeVozilaXML\KolekcijeVozilaXML\bin\Debug\KolekcijeVozilaXML.exe
+C:\Users\ninom\source\repos\KolekcijeVozilaXML\KolekcijeVozilaXML\bin\Debug\KolekcijeVozilaXML.pdb
+C:\Users\ninom\source\repos\KolekcijeVozilaXML\KolekcijeVozilaXML\obj\Debug\KolekcijeVozilaXML.csproj.AssemblyReference.cache
+C:\Users\ninom\source\repos\KolekcijeVozilaXML\KolekcijeVozilaXML\obj\Debug\KolekcijeVozilaXML.Form1.resources
+C:\Users\ninom\source\repos\KolekcijeVozilaXML\KolekcijeVozilaXML\obj\Debug\KolekcijeVozilaXML.Properties.Resources.resources
+C:\Users\ninom\source\repos\KolekcijeVozilaXML\KolekcijeVozilaXML\obj\Debug\KolekcijeVozilaXML.csproj.GenerateResource.cache
+C:\Users\ninom\source\repos\KolekcijeVozilaXML\KolekcijeVozilaXML\obj\Debug\KolekcijeVozilaXML.csproj.CoreCompileInputs.cache
+C:\Users\ninom\source\repos\KolekcijeVozilaXML\KolekcijeVozilaXML\obj\Debug\KolekcijeVozilaXML.exe
+C:\Users\ninom\source\repos\KolekcijeVozilaXML\KolekcijeVozilaXML\obj\Debug\KolekcijeVozilaXML.pdb
